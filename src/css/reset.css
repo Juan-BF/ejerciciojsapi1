@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+#btn-search{
+    font-style: none;
+    border: none;
+}
+ul{
+    list-style: none;
+}
+#search{
+    border: none;
+}
