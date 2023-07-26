@@ -14,3 +14,6 @@ ul{
 #search{
     border: none;
 }
+input:focus {
+    outline: none;
+  }
